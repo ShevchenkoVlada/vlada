@@ -7,3 +7,4 @@ result=ncd(num1, num2)
 print(result)
 
 print(power_of_five(25))
+vladaaaa
