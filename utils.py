@@ -16,3 +16,7 @@ def power_of_five(n):
         n /= 5
     return n == 1
 vladaaaaaaaaaaaaaaaaa
+
+def pythagoras_hypotenuse(a, b):
+    c = (a**2 + b**2) ** 0.5
+    return c
